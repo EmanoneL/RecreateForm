@@ -1,0 +1,15 @@
+﻿  ConsoleApplication5.cpp
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(15,2): error C3861: glutPostRedisplay: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(16,2): error C3861: glutTimerFunc: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(44,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(73,2): error C3861: glutSwapBuffers: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(80,2): error C3861: glutInit: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(81,22): error C2065: GLUT_DOUBLE: необъявленный идентификатор
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(81,36): error C2065: GLUT_RGB: необъявленный идентификатор
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(81,2): error C3861: glutInitDisplayMode: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(84,2): error C3861: glutInitWindowSize: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(85,2): error C3861: glutInitWindowPosition: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(86,2): error C3861: glutCreateWindow: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(89,2): error C3861: glutDisplayFunc: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(90,2): error C3861: glutTimerFunc: идентификатор не найден
+C:\Users\Asus\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp(94,2): error C3861: glutMainLoop: идентификатор не найден
